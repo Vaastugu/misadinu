@@ -13,54 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Phrases (Taṣṭiyēvayānupu).md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kondūka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phrases (Taṣṭiyēvayānupu)"
+              "title": "Kondūka"
             }
           },
           {
-            "id": "5abd6779a49b32b3",
+            "id": "5024a41e2925d7ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "Vāstuguku Pinnaganyāḍi/Proto-Prankita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "Proto-Prankita"
             }
           },
           {
-            "id": "d36bd43c6c5346d3",
+            "id": "5c5b0e197cc8761d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Pinnakēyu.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Prandūka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pinnakēyu"
+              "title": "Prandūka"
             }
           },
           {
-            "id": "b8fbce7250658065",
+            "id": "02ee128b72f8ff82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Dūkamu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verb Conjugations"
+              "title": "Dūkamu"
+            }
+          },
+          {
+            "id": "1a86d0b5619c4aa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Numbers (Campatapu).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Numbers (Campatapu)"
             }
           }
         ],
@@ -96,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "full",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,34 +237,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5abd6779a49b32b3",
+  "active": "5024a41e2925d7ea",
   "lastOpenFiles": [
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/S. Mīsāḍinu - Postpositions.md",
+    "Vāstuguku Pinnaganyāḍi/Proto-Prankita.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Prandūka.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Dūkamu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kondūka.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Mavakkyākina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Malli.md",
+    "[Malli.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Untitled",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Numbers (Campatapu).md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/shkemigu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Phrases (Taṣṭiyēvayānupu).md",
+    "README.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Kostagayākina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
     "README.md.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Pinnakēyu.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Vāmstegī.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Pronouns/S. Mīsāḍinu Pronouns.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Sāgyu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Numbers (Campatapu).md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Pronouns/dōlnu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Phrases (Taṣṭiyēvayānupu).md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Unṭaiḍyu.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Yēṣoyārdya.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kōkyu.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Cālakēḍyākina.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Cāpakēvāyākina.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Yēṣoyāra.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/S. Mīsāḍinu - Rajyaḍu (Colours).md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Piṇṭa.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Pinci.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Arēmaru.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/īdāku.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Bōjupi.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Bōjastu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Bāsti.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Avancu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Ankara.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Untitled",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Body Parts",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives",
@@ -260,7 +275,6 @@
     "Taṣṭinupuku Pinnaganyāḍi/Prānta Mīsāḍinu (Proto-Anc-2)",
     "Vāstuguku Pinnaganyāḍi",
     "Taṣṭinupuku Pinnaganyāḍi/Proto-Main",
-    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu",
     "Untitled.canvas"
   ]
 }

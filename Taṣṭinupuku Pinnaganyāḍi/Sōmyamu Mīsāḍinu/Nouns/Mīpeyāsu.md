@@ -1,5 +1,5 @@
 ## Etymology
-*Ultimately from [[Proto-Main]].* From [[Mīpāyākṣu]] (bitch, female dog) ([[Pāta Mīsāḍinu]])
+*Ultimately from [[Proto-Prankita]].* From [[Mīpāyākṣu]] (bitch, female dog) ([[Pāta Mīsāḍinu]])
 *Cognate with* [[Mīpānu]] (dog) ([[Sōmyamu Mīsāḍinu (Language)|S. Mīsāḍinu]])
 
 ### Noun

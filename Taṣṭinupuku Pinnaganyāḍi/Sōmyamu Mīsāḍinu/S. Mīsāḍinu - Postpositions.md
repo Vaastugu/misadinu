@@ -10,3 +10,7 @@
 -[[nākku]] (like, noun)
 -[[nā]] (adverb marker)
 -[[Yānu]] (verb --> noun marker)
+
+
+-krā (comparative, -er)
+-ṣa (superlative -est)

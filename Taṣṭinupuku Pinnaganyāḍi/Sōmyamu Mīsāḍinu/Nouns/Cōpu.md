@@ -1,5 +1,5 @@
 ## Etymology
-*Ultimately from [[Proto-Main]].*
+*Ultimately from [[Proto-Prankita]].*
 
 ### Noun
 1. Tree

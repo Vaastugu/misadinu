@@ -1,6 +1,6 @@
 
 ## Etymology
-*Ultimately from [[Proto-Main]]*. 
+*Ultimately from [[Proto-Prankita]]*. 
 *Cognates*: [[Yāṣva (Yā)]] ([[Sōmyamu Mīsāḍinu (Language)|S. Mīsāḍinu]], that), [[Yōṣva (Yō)]] ([[Sōmyamu Mīsāḍinu (Language)|S. Mīsāḍinu]], "which?")
 
 ### Noun

@@ -1,5 +1,5 @@
 ## Etymology
-*Ultimately from [[Proto-Main]]*. 
+*Ultimately from [[Proto-Prankita]]*. 
 *Cognates*: [[Yēṣva (Yē)]] ([[Sōmyamu Mīsāḍinu (Language)|S. Mīsāḍinu]], this), [[Yōṣva (Yō)]] ([[Sōmyamu Mīsāḍinu (Language)|S. Mīsāḍinu]], "which?")
 
 ### Noun

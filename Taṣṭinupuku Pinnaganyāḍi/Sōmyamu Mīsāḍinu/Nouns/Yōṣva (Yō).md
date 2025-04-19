@@ -1,6 +1,6 @@
 
 ## Etymology
-*Ultimately from [[Proto-Main]].*
+*Ultimately from [[Proto-Prankita]].*
 
 ### Interrogative Noun
 1. "Which?"
