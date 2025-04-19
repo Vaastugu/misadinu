@@ -1,0 +1,1 @@
+[[Sōmyamu Mīsāḍinu (Language)]] was a classical language spoke on the [[]] subcontinent by the [[Mīsāḍacalnupu]]. It is part of the [[Prankita Taṣṭinupu (Prankita Languages)]] language family. 

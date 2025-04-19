@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "4551499f2b14102d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7139023b68443cf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20b0fdc83d879e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Phrases (Taṣṭiyēvayānupu).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phrases (Taṣṭiyēvayānupu)"
+            }
+          },
+          {
+            "id": "5abd6779a49b32b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          },
+          {
+            "id": "d36bd43c6c5346d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Pinnakēyu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pinnakēyu"
+            }
+          },
+          {
+            "id": "b8fbce7250658065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verb Conjugations"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "712e3c0ea18d1632",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcd72c382f6c7ac6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "140f56b3a9cde2cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a84a4544f47e5510",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "full",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e33541eda03a3420",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "right": {
+    "id": "a7e90cbe08fec984",
+    "type": "split",
+    "children": [
+      {
+        "id": "93f3fdf71dc449c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "231afd408710199f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Sōmyamu Mīsāḍinu Noun Declensions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sōmyamu Mīsāḍinu Noun Declensions"
+            }
+          },
+          {
+            "id": "2426b4790e6cd58b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Sōmyamu Mīsāḍinu Noun Declensions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sōmyamu Mīsāḍinu Noun Declensions"
+            }
+          },
+          {
+            "id": "3adfee00ca909ffc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac467561456f08d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Sōmyamu Mīsāḍinu Noun Declensions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sōmyamu Mīsāḍinu Noun Declensions"
+            }
+          },
+          {
+            "id": "2308d7d67cd32373",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5abd6779a49b32b3",
+  "lastOpenFiles": [
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/S. Mīsāḍinu - Postpositions.md",
+    "README.md.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Pinnakēyu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Vāmstegī.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Pronouns/S. Mīsāḍinu Pronouns.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Sāgyu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Numbers (Campatapu).md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Pronouns/dōlnu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Phrases (Taṣṭiyēvayānupu).md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Unṭaiḍyu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Yēṣoyārdya.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kōkyu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Cālakēḍyākina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Cāpakēvāyākina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Yēṣoyāra.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/S. Mīsāḍinu - Rajyaḍu (Colours).md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Piṇṭa.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Pinci.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Arēmaru.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/īdāku.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Bōjupi.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Bōjastu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Bāsti.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Avancu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Ankara.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Untitled",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Body Parts",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Pronouns",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs",
+    "Taṣṭinupuku Pinnaganyāḍi/Prānta Mīsāḍinu (Proto-Anc-2)",
+    "Vāstuguku Pinnaganyāḍi",
+    "Taṣṭinupuku Pinnaganyāḍi/Proto-Main",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu",
+    "Untitled.canvas"
+  ]
+}

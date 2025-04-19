@@ -1,0 +1,9 @@
+## Etymology
+Unknown. Ultimately from [[Proto-Main]] but root is unknown. Best theory is that it is from [[Proto-Main]]'s version of [[Pēṣā mattyākina]] (to consume).
+*Cognates with* [[Yēṣoyākina]] (to eat), [[Yēṣoyāra]] (drunk), [[Yāṣoyākina]] (to drink)
+
+### Verb
+1. To bite.
+2. To take a small mouthful.
+
+ēāōīūṣṭḷḍ
