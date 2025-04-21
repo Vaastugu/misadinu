@@ -8,73 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20b0fdc83d879e1e",
+            "id": "0650f2efd5a8484c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kondūka.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Jagguyākina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kondūka"
+              "title": "Jagguyākina"
             }
           },
           {
-            "id": "5024a41e2925d7ea",
+            "id": "a05d5a57317834a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vāstuguku Pinnaganyāḍi/Proto-Prankita.md",
+                "file": "Vāstuguku Pinnaganyāḍi/Champuṭuku Bābelu Tīvunu (The Story of Babel Tower).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proto-Prankita"
+              "title": "Champuṭuku Bābelu Tīvunu (The Story of Babel Tower)"
             }
           },
           {
-            "id": "5c5b0e197cc8761d",
+            "id": "4241f8b778c2bac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Prandūka.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prandūka"
+              "title": "Verb Conjugations"
             }
           },
           {
-            "id": "02ee128b72f8ff82",
+            "id": "70a879b2de152047",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Dūkamu.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/B-Type Declensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dūkamu"
+              "title": "B-Type Declensions"
             }
           },
           {
-            "id": "1a86d0b5619c4aa4",
+            "id": "272628db4bc13e45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Numbers (Campatapu).md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/S. Mīsāḍinu - Postpositions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Numbers (Campatapu)"
+              "title": "S. Mīsāḍinu - Postpositions"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Pinnak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,35 +237,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5024a41e2925d7ea",
+  "active": "a05d5a57317834a2",
   "lastOpenFiles": [
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/B-Type Declensions.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
+    "Vāstuguku Pinnaganyāḍi/Champuṭuku Bābelu Tīvunu (The Story of Babel Tower).md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Pinnakēyu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Jagguyākina.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/S. Mīsāḍinu - Postpositions.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Untitled 1.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Guṭṭini.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Cindayākina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Pronouns/dōlnu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/ēgaccu (ēg).md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Koṭṭini.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Kūṣiyēkina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Govinē.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Gōvinivāyākina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Gōviniyēkina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Ganyākina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Numbers (Campatapu).md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Tīvunu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Dōngēṣṭi.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Champuṭu.md",
     "Vāstuguku Pinnaganyāḍi/Proto-Prankita.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Prandūka.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Phrases (Taṣṭiyēvayānupu).md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Dūkamu.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kondūka.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Mavakkyākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Malli.md",
-    "[Malli.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Untitled",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Numbers (Campatapu).md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/shkemigu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Phrases (Taṣṭiyēvayānupu).md",
-    "README.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Kostagayākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
-    "README.md.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Pinnakēyu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Vāmstegī.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Pronouns/S. Mīsāḍinu Pronouns.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Sāgyu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Pronouns/dōlnu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Unṭaiḍyu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Yēṣoyārdya.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kōkyu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Cālakēḍyākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Cāpakēvāyākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Yēṣoyāra.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Untitled",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Body Parts",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives",

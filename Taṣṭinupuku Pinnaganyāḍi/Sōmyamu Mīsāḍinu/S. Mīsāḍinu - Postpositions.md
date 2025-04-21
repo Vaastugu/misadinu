@@ -1,6 +1,6 @@
 -[[Keṇṭi]] (behind)
 -[[Kastu]] (under, down)
--[[Irānō]] (through)
+-[[Irānō]] (through, by (maker, author, etc))
 -[[Sāccaka]] (above, up)
 -[[pannu]] (near)
 -[[Ta]] (hearsay)
@@ -14,3 +14,6 @@
 
 -krā (comparative, -er)
 -ṣa (superlative -est)
+
+
+ēāōīūṣṭḷḍ
