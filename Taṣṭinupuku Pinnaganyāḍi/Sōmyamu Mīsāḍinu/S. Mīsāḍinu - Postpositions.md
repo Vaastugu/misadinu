@@ -10,7 +10,8 @@
 -[[nākku]] (like, noun)
 -[[nā]] (adverb marker)
 -[[Yānu]] (verb --> noun marker)
-
+-agyāra (noun -> adjective marker) - from āggayāra (past participle of [[āggayākina]])
+-nu (indicates some sort of human)
 
 -krā (comparative, -er)
 -ṣa (superlative -est)
