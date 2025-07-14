@@ -1,5 +1,5 @@
 -[[Keṇṭi]] (behind)
--[[Kastu]] (under, down)
+-[[Vastu]] (under, down)
 -[[Irānō]] (through, by (maker, author, etc))
 -[[Sāccaka]] (above, up)
 -[[pannu]] (near)
