@@ -3,7 +3,7 @@ Champuṭuku Bābelu Tīvunu gu campuṭu 'Baibeluku' poni ('Genisis' Guṭṭin
 
 ### Campuṭu
 1. Pinnakēyu Vastugulu, gunḍē taṣṭina, gunḍē chaluppa.
-2. Chaluppu 
+2. Annikevāggayānuvu, [[Phrases (Taṣṭiyēvayānupu)|svardarṣayāva yōganci]]
 
 ### Ingelīṣi Jagguyānu
 1 And the whole earth was of one language, and of one speech.

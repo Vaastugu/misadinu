@@ -1,5 +1,5 @@
 ## Etymology
-Equivalent to [[Bōjupi|bōjupiki]] [[-Kastu]] (under the head)
+Equivalent to [[Bōjupi|bōjupiki]] [[-Vastu]] (under the head)
 
 ### Noun
 1. Neck.
