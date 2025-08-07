@@ -25,10 +25,10 @@ eg:
 ### Radiant Ideals
 Ideals for my own Radiant order, the Order of Wayfarers ([[Sācōpucalnu|Sācōpucaluppu]]) (surges: Progression (*Regrowth*) and Graviation (*Lashing*)):
 
-Ideal basis:
+Ideal basis: *Gunnu kōḍanaicagunnu*
 > I will try.
 
-1st Ideal: 
+1st Ideal: *Kanconikipōje sāggakēyānu. *
 > Life before death. Strength before weakness. Journey before destination.
 
 2nd Ideal:

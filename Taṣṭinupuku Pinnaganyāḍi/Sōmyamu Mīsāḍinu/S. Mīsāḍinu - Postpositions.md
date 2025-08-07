@@ -5,6 +5,7 @@
 -[[pannu]] (near)
 -[[Ta]] (hearsay)
 -[[poni]] (from, origin of)
+-[[pōje]] (before)
 -[[dailu]] (about)
 -[[-nākya|nākya]] (like, verb)
 -[[nākku]] (like, noun)
