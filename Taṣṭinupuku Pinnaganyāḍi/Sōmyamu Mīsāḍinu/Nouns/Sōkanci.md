@@ -1,6 +1,6 @@
 ## Etymology
-Equivalent to [[Sōgu]] (night) + [[Kanci]] (moon)
-*Cognates with* [[Kanci]] (sun).
+Equivalent to [[Sōgu]] (night) + [[Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kanci]] (moon)
+*Cognates with* [[Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kanci]] (sun).
 
 ### Noun
 1. Moon.

@@ -8,59 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e97e287f5859c90e",
+            "id": "b9b6756ee8ef34fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/dārga.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verb Conjugations"
+              "title": "dārga"
             }
           },
           {
-            "id": "1f8ead97d1553052",
+            "id": "32c09f4007fbbff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Declensions.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/kanci.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Declensions"
+              "title": "kanci"
             }
           },
           {
-            "id": "438cb4a8d9fd25d8",
+            "id": "02eebb754e5133ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Sācōpucalnu.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/gonsi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sācōpucalnu"
-            }
-          },
-          {
-            "id": "872a199edb863ee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vāsu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vāsu"
+              "title": "gonsi"
             }
           }
         ],
@@ -96,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wand",
+                "query": "sun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,8 +186,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -210,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,15 +206,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "438cb4a8d9fd25d8",
+  "active": "02eebb754e5133ff",
   "lastOpenFiles": [
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Calnāyulu Campoti Dirikkilyēkina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/gonsi.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/kanci.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/dārga.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/dārguṣa.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Purukṣa.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/āvecu.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/S. Mīsāḍinu - Postpositions.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Untitled 4.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Sācōpucalnu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Calnāyulu Campoti Dirikkilyēkina.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vāsu.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Pronouns/S. Mīsāḍinu Pronouns.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Caluppagamārrēḍi.md",
@@ -238,21 +231,12 @@
     "Taṣṭinupuku Pinnaganyāḍi/Prānta Mīsāḍinu (Proto-Anc-2)/Calnākkyāra.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Untitled 3.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Calnāyu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Untitled 2.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Calvāyākina.md",
     "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Calvāyākina.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Gamārāyākina.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Gamārrediyēkina.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Campoti Dirikkilyēkina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Camparēkkilyēkina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Numbers (Campatapu).md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Dūkamu.md",
-    "Vāstuguku Pinnaganyāḍi/Taṣṭinuppu Caluppaku Vāstugulu/Gunḍastanāsu Mīsāḍinastuku.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vastu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/āgrūmabayu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Caluppūnḍastanu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vāmstemattakoyēnu.md",
     "Taṣṭinupuku Pinnaganyāḍi.zip",
     "Taṣṭinupuku Pinnaganyāḍi/map versions/v2 cultures done.map",
     "Taṣṭinupuku Pinnaganyāḍi/map versions/v1 no edit.map",
