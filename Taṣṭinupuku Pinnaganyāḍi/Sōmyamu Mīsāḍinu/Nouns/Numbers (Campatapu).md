@@ -1,5 +1,7 @@
 one - gunḍa (gu = a/an)
 two - mīnḍa (mīnu - both)
+three - rūva
 
-one - gunḍasta (first)
-two - mīnḍasta (second)
+first - gunḍasta (also asta)
+second - mīnḍasta
+third  - rūvasta

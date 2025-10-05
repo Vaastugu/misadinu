@@ -3,7 +3,7 @@ From [[Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/kanci|kanci]] ([[Pāta
 
 ### Noun
 1. Any god.
-		See: [[dārga]]
+		See: [[Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/dārga]]
 2. 
 
 

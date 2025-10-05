@@ -1,0 +1,4 @@
+[[Pirīkēyānu]]
+
+also
+[[Prīkēyēkrina]]

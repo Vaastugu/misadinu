@@ -10,6 +10,8 @@
 -[[-nākya|nākya]] (like, verb)
 -[[nākku]] (like, noun)
 -[[nā]] (adverb marker)
+-koba (for, benefactive)
+
 -[[Yānu]] (verb --> noun marker)
 -agyāra (noun -> adjective marker) - from āggayāra (past participle of [[āggayākina]])
 -nu (indicates some sort of human)
