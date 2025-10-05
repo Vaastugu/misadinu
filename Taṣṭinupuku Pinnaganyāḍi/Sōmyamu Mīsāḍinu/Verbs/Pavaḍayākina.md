@@ -1,4 +1,5 @@
 ## Etymology
+From [[Pavu]] (house)
 
 ### Verb
 1. To lay (down)
