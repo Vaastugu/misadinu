@@ -5,5 +5,10 @@ agga -> did/past tense [[āggayākina]]
 
 ēāōīūṣṭḷḍ
 
-MM: *Pinnachalno agovaa daagoni Valosa*
-SM: *Pinnachalno! Valosa daargakoniyeshoDi*
+MM: *Pinnachalno agovaa dhaagoni Valosa*
+SM: *Pinnachalno! Valosa dhaargakoniyeshodi*
+
+MM: *Gondalheni pasha kooda caa kusthama*
+SM: *Gondalheni kusthammucaaku koodayanaicachaluppu*
+
+SM (inf): *Gondalheni kusthammucaaku koodayanaica(chalu)*
