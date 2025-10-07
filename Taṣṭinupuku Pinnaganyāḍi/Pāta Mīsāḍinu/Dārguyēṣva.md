@@ -1,0 +1,4 @@
+[[Dāgēṣa]]
+
+Natural
+"godly thing"

@@ -1,16 +1,16 @@
 
 Informal:
 
-|                   | sg      | pl                                                         |
-| ----------------- | ------- | ---------------------------------------------------------- |
-| 1st               | gunnu   | mīppu                                                      |
-| 2nd               | kēnnu   | kēppu                                                      |
-| 3rd (neut)        | calnu   | caluppu                                                    |
-| 3rd (masc)        | yābu    | caluppu                                                    |
-| 3rd (fem)         | yāsu    | caluppu                                                    |
-| 3rd (non-thinker) | sācalnu | sācaluppu (often shortened to sācalpu, even in literature) |
-|                   |         |                                                            |
-|                   |         |                                                            |
+|                   | sg             | pl                                                        |
+| ----------------- | -------------- | --------------------------------------------------------- |
+| 1st               | gunnu (gunu)   | mīppu (mī)                                                |
+| 2nd               | kēnnu (kē)     | kēppu                                                     |
+| 3rd (neut)        | calnu (ca)     | caluppu (calu)                                            |
+| 3rd (masc)        | yābu (yā)      | caluppu (calu)                                            |
+| 3rd (fem)         | yāsu (yā)      | caluppu (calu)                                            |
+| 3rd (non-thinker) | sācalnu (sāca) | sācaluppu (often shortened to sācalu, even in literature) |
+|                   |                |                                                           |
+|                   |                |                                                           |
 \*caluppu - thinkers
 
 Formal (Thinker):

@@ -5,6 +5,8 @@
 
 ### Noun
 1. This.
+2. A thing; topic of discussion; etc (non physical)
+		Co-ordinate term: [[Ikoru]]
 
 #### Declension (Type-B)
 Initial vowel changes. u/a/o. 

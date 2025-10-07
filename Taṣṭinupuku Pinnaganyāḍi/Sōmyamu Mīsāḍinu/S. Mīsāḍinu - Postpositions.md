@@ -10,7 +10,10 @@
 -[[-nākya|nākya]] (like, verb)
 -[[nākku]] (like, noun)
 -[[nā]] (adverb marker)
+
 -koba (for, benefactive)
+
+-gilde(mi) (than, compared to)
 
 -[[Yānu]] (verb --> noun marker)
 -agyāra (noun -> adjective marker) - from āggayāra (past participle of [[āggayākina]])
