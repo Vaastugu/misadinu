@@ -2,6 +2,7 @@
 paṣa -> will [[Paṣṭayākina]]
 pōḷu -> can 
 agga -> did/past tense [[āggayākina]]
+ela - if
 
 ēāōīūṣṭḷḍ
 

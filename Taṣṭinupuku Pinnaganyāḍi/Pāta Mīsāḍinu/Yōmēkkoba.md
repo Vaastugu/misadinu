@@ -1,0 +1,1 @@
+From Yōmēḍikoba (for what?)

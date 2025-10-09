@@ -29,5 +29,7 @@ stem + tense/asp + person ending
 | **Imperative (prst)** | -vakka |
 | **Imperative (fut)**  | -cakka |
 | **Potential**         | -pōḷu- |
+| **Permissive**        | -kala- |
 | **Causative**         | -vā-   |
-
+-kala- from [[kvalnu]]
+-ela (maybe)
