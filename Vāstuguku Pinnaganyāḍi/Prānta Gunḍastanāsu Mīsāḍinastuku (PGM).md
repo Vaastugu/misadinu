@@ -1,0 +1,1 @@
+The "ancient" *Kingdom of Mishtu* (or *Prānta Gunḍastanāsu Mīsāḍinastuku* in [[Sōmyamu Mīsāḍinu (Language)]]) is an ancient kingdom located on the southern coast of the [[Isle of Pranta]]. Its capital, for its whole history, has been the city of [[Mīsāḍinastu]] - populated by the Mīsaḍinu people.
