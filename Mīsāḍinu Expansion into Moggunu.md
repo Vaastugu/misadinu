@@ -1,12 +1,4 @@
 *PART OF A [[Series on the Prānta Gunḍastanāsu Mīsāḍinastuku (PGM)]]*
-## Introduction
-ēāōīūṣṭḷḍ
-In the years following the [[West Prakār]] (WP) - [[Vāstuguku Pinnaganyāḍi/Prānta Gunḍastanāsu Mīsāḍinastuku (PGM).md|Prānta Gunḍastanāsu Mīsāḍinastuku]] (PGM) conflicts, which resulted in the unification of the [[Isle of Pranta]] in 993 AW under the PGM banner, the PGM began prospering. They took advantage of all their island and the [[Island of Manki]] had to offer, without interruption. However, PGM foreign policy began to flounder aimlessly. No existential threat existed, nor did a cohesive objective.
-
-.
-.
-.
-
 ## The Moggunu Conspiracy
 During the [[Unification of the Isle of Prānta]], the [[Free (City-)States of Moggunu]] had, individually, funded the PGM war machine for the better part of twenty years, resulting in a large debt being held by the Moggunu cities (specifically the cities of [[Free (City-)States of Moggunu|Kanḍār, Remmimollu, and Vīḍugol]]). Post unification, fiscal advisers to [[Queen Māṣiḷu I of House Chārivi]] expressed adamant hope that they would be able to repay the debt, though it was fairly hefty, in a relatively short amount of time now that the resources of Pranta and Manki were uncontestedly theirs, and now that they had inherited the far-west trade routes from the West Prakāris. Further, the strong GPM navy was tasked with the protection of those far-west trade routes, meaning the GPM treasury could cut costs that used to be spent by the West Prakāris on private Moggunu-funded mercenary protection of those trade routes. 
 
