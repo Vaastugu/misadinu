@@ -1,5 +1,6 @@
 ēāōīūṣṭḷḍ
 
+## Introduction
 [[West Prakār]] (WP) and the [[Vāstuguku Pinnaganyāḍi/Prānta Gunḍastanāsu Mīsāḍinastuku (PGM).md|Prānta Gunḍastanāsu Mīsāḍinastuku]] (PGM) were two ancient independent kingdoms on the Isle of Pranta, attested from at least 100 AW. By 940 AW, both WP and PGM hold approximately half the island each -- the WP on the western half (owing to its name) and the PGM the eastern half. By ~993 AW, WP would cease to exist, having been fully annexed by the PGM.
 
 For the almost 60 years that the two nations were the most predominant -- or only -- sovereign states on Pranta, they were almost totally at odds and tensions were mostly high. Their conflicts through the six decades included full, open war, funding anti-state actors, proxy wars, and clandestine operations.
@@ -63,7 +64,7 @@ The reasoning for such swift and heavy integration, as Amstaledi writes, was lik
 In fact, in just four generations' time, the West Prakāris would be calling themselves "Citizens of Mīsāḍinu" (as attested in the *Kamḍa Scroll*) and their language would officially be decreed as an equal dialect of the Mīsāḍinu language. 
 
 ### Eventual Annexation of the Isle of Pranta (993 AW)
-Pranta was eventually totally annexed by Mīsāḍinu in 993 AW due to the scandal of a subsequent  West Prakāri puppet king (unknown, and unnamed). The state descended into turmoil, and West Prakāri elites begged the Mīsāḍinian king, Māṣiḷu I of House Chārivi (daughter of Maggayya II) to intervene militarily. 
+Pranta was eventually totally annexed by Mīsāḍinu in 993 AW due to the scandal of a subsequent  West Prakāri puppet king (unknown, and unnamed). The state descended into turmoil, and West Prakāri elites begged the Mīsāḍinian queen, [[Queen Māṣiḷu I of House Chārivi]] (daughter of Maggayya II) to intervene militarily. 
 
 ## Mīsāḍinu & The City States of Moggunu
 "It may not be clear, at first glance, why Mīsāḍinu seemingly spared the Moggunu cities after the subjugation of West Prakār", writes *Maximus Felix Syllogikó* in his book "An Economic Analysis of the Ancient Moggunu Cities". He further goes onto state that Mīsāḍinu did not pursue the Moggunu cities for two main reasons
