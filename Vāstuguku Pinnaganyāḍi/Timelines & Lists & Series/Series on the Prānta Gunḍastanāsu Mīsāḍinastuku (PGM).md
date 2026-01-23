@@ -12,7 +12,7 @@
 - Related pages: [[West Prakār]], [[Prānta Gunḍastanāsu Mīsāḍinastuku (PGM)]], [[Maggayya II of House Chārivi]], [[Battle of Kēmiṣa]]
 -  Analyses: The [[Maggayya Policy]]
 
-#### [[Mīsāḍinu Expansion into Moggunu]]
+#### [[The Great Old Game (Mīsāḍinu-Moggunu)]]
 - 997 AW - 
 - Related pages: [[Free (City-)States of Moggunu]], [[Unification of the Isle of Prānta]]
 - Analyses:

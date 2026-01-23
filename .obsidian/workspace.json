@@ -4,77 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "c31d81b1f7dbeb0b",
+        "id": "ad328941ae571031",
         "type": "tabs",
         "children": [
           {
-            "id": "2261229d7478f0b7",
+            "id": "d061caf680191e6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vāstuguku Pinnaganyāḍi/plan.md",
+                "file": "Vāstuguku Pinnaganyāḍi/Timelines & Lists & Series/Series on the Prānta Gunḍastanāsu Mīsāḍinastuku (PGM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plan"
+              "title": "Series on the Prānta Gunḍastanāsu Mīsāḍinastuku (PGM)"
             }
           },
           {
-            "id": "618842055ac49d18",
+            "id": "9ba23e3a5e2ac5ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vāstuguku Pinnaganyāḍi/Taṣṭinuppu Caluppaku Vāstugulu/The Maggayya Policy.md",
+                "file": "Vāstuguku Pinnaganyāḍi/Free (City-)States of Moggunu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Maggayya Policy"
+              "title": "Free (City-)States of Moggunu"
             }
           },
           {
-            "id": "80f879481ca22f61",
+            "id": "22db62fb9b651a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mīsāḍinu Expansion into Moggunu.md",
+                "file": "Vāstuguku Pinnaganyāḍi/The Great Old Game (Mīsāḍinu-Moggunu).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mīsāḍinu Expansion into Moggunu"
-            }
-          },
-          {
-            "id": "fab2c11ce3910b11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Catāsu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Catāsu"
-            }
-          },
-          {
-            "id": "c04769c6a1c3a5f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vāstuguku Pinnaganyāḍi/Unification of the Isle of Prānta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unification of the Isle of Prānta"
+              "title": "The Great Old Game (Mīsāḍinu-Moggunu)"
             }
           }
         ],
@@ -110,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sit",
+                "query": "small",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5
   },
   "right": {
     "id": "a7e90cbe08fec984",
@@ -214,8 +186,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -234,42 +206,48 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80f879481ca22f61",
+  "active": "22db62fb9b651a17",
   "lastOpenFiles": [
     "Vāstuguku Pinnaganyāḍi/Free (City-)States of Moggunu.md",
-    "Mīsāḍinu Expansion into Moggunu.md",
-    "Vāstuguku Pinnaganyāḍi/Taṣṭinuppu Caluppaku Vāstugulu/The Maggayya Policy.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Catāsu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Gunḍastanu.md",
-    "Vāstuguku Pinnaganyāḍi/Unification of the Isle of Prānta.md",
     "Vāstuguku Pinnaganyāḍi/Timelines & Lists & Series/Series on the Prānta Gunḍastanāsu Mīsāḍinastuku (PGM).md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Talevi.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Pinṭāgu.md",
+    "Vāstuguku Pinnaganyāḍi/Unification of the Isle of Prānta.md",
+    "Vāstuguku Pinnaganyāḍi/plan.md",
     "Vāstuguku Pinnaganyāḍi/Timelines & Lists & Series/Full Chronological Timeline.md",
     "Vāstuguku Pinnaganyāḍi/Timelines & Lists & Series",
-    "Vāstuguku Pinnaganyāḍi/plan.md",
+    "Vāstuguku Pinnaganyāḍi/Taṣṭinuppu Caluppaku Vāstugulu/The Maggayya Policy.md",
+    "Vāstuguku Pinnaganyāḍi/Battle of Kēmiṣa.md",
+    "Vāstuguku Pinnaganyāḍi/The Great Old Game (Mīsāḍinu-Moggunu).md",
     "Vāstuguku Pinnaganyāḍi/Prānta Gunḍastanāsu Mīsāḍinastuku (PGM).md",
-    "Darrayāvu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Mīsāḍinu (Modern)/Verbs.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Paṣṭayākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Mīsāḍinu (Modern)/daaga.md",
-    "maps/prankita world pre 954 aw.jpg",
-    "maps/second wp pgm war.jpg",
+    "plan.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Numbers (Campatapu).md",
+    "Battle of Kēmiṣa.md",
     "maps/isle of pranta post 954 aw.jpg",
+    "maps/isle of pranta post 960 aw.jpg",
+    "maps/second wp pgm war.jpg",
+    "maps/prankita world pre 954 aw.jpg",
+    "maps/post war.jpg",
+    "maps/last wa.jpg",
+    "maps/prankita world.jpg",
     "maps",
-    "Vāstuguku Pinnaganyāḍi/Taṣṭinuppu Caluppaku Vāstugulu/Untitled.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/yēṣṭoyēkina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/takkuyākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/takkayākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/ekkuyākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/ekkayākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/yēṣṭoyāvi.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/vōni.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Camattu (tool).md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Sāgyu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Yuddya.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Sōkanci.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Sāgu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Saigu.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/takku.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/sāgevōni.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/ekku.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/dāgēṣoni.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vāmstu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vastu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vānōstu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vānō.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Yāṣva (Yā).md",
     "Taṣṭinupuku Pinnaganyāḍi/Mīsāḍinu (Modern)",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Interrogative/Untitled",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Untitled",
