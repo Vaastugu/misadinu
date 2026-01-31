@@ -10,7 +10,7 @@ What the PGM did not realise at the time was that the Moggunu states they were i
 ### Discovery of the Source of Piracy
 After the PGM began repaying its debt to the three Moggunu city states, the military command deemed it necessary to embed undercover operatives into the political systems, governments, banks, and lenders of the city states as they desired to know of weaknesses that the PGM could play to its advantage against Moggunu.
 
-During the piracy crisis (993 AW - 995 AW) that ravaged the island of Pranta, these same undercover assets finally obtained objective evidence of Moggunu involvement in the crisis, and a clear desire of wanting to undermine PGM sovereignty and economic independence. This was later dubbed by prominent Sōmyāmu (classical) historians (such as Amstaledi) as *[[The Piracy Document]]*. 
+During the piracy crisis (993 AW - 995 AW) that ravaged the island of Pranta, these same undercover assets finally obtained objective evidence of Moggunu involvement in the crisis, and a clear desire of wanting to undermine PGM sovereignty and economic independence. This was later dubbed by prominent Sōmyāmu (classical) historians (such as Amstaledi) as *[[The Piracy Document]]*. It contained accounting information that detailed the transfer of money from the city states to known pirate lords.
 ## The Pivot to Moggunu
 Following the revelation of the Piracy Document, the [[Gunḍastanu Catāsu]] indefinitely pivoted PGM foreign policy to "support the independence and sovereignty of Mīsāḍinastu by undermining those who would seek to harm \[us\]", says *Amstaledi*. 
 
@@ -21,4 +21,9 @@ The Catāsu planned a multi-year long plan to deal with this situation. They wou
 
 It was attested that Māṣiḷu acknowledged the scale of this scheme and policy pivot may outlast many at that meeting, but reinforced the geopolitical weight of the situation, and the importance of PGM sovereignty. 
 
-## The Clandestine Phase
+## The Clandestine Phase (995 AW - 1005 AW)
+In the decade between the *Pivot* and the end of what notable historians now refer to as the *Clandestine Phase*, the PGM established an extensive network of spies in the city-states of Kanḍār, Remmimollu, and Vīḍugol. These spies embedded themselves into the high societies of the city states as servants, slaves, bodyguards, merchants, and more. They further were known to turn prominent people, such as rising statesmen, into undercover assets. Their objective was simply to collect information regarding the various inter-city relations, politics, economic states, and more. Essentially, gather all information absolutely possible in order for the PGM military command to find a weak spot for exploitation.
+
+As the years continued, the network's objective grew from simple observation to observation and active sabotage. Shipments were sunk, trade routes disrupted, and enemies of political allies assassinated. Specifically, PGM assets committed to sinking or robbing vessels that transported Mīsāḍinian debt repayments to the cities, all the while the PGM would blame such actions on the very pirates Moggunu were funding.
+
+## The Geopolitical Wedge (1005 AW - 1030 AW)

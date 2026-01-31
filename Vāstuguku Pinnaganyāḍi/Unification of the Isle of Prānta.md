@@ -68,8 +68,7 @@ Pranta was eventually totally annexed by Mīsāḍinu in 993 AW due to the scand
 
 ## Mīsāḍinu & The City States of Moggunu
 "It may not be clear, at first glance, why Mīsāḍinu seemingly spared the Moggunu cities after the subjugation of West Prakār", writes *Maximus Felix Syllogikó* in his book "An Economic Analysis of the Ancient Moggunu Cities". He further goes onto state that Mīsāḍinu did not pursue the Moggunu cities for two main reasons
-1. The cities funnelled their funding through private shell entities. The result of this is that the PGM government could not reasonably accuse Moggunu of such an action. *He notes that this is actually the earliest attested usage of "shell entities" to separate oneself from illegal or gray-area activities and such a move was very advanced for its time.*
-
+1. The cities funnelled their funding through client networks. The result of this is that the PGM government could not reasonably accuse Moggunu of such an action.
 2.  Mīsāḍinu owed a large debt to them because...idk.
 
 ēāōīūṣṭḷḍ
