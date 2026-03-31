@@ -1,5 +1,5 @@
 ## Etymology
-From [[Gunḍastanu]] (Sovereign) + [[Vāsu]] (land, domain)
+From [[Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Gunḍastanu]] (Sovereign) + [[Vāsu]] (land, domain)
 
 ### Noun
 1. Soverigndom

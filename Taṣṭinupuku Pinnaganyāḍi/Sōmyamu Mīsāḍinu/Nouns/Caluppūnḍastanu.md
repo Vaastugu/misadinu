@@ -1,5 +1,5 @@
 ## Etymology
-Related to [[Gunḍastanu]]
+Related to [[Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Gunḍastanu]]
 
 Equivalent to People's Leader
 
