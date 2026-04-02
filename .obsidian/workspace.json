@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Vōkkaḷuyākina.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Pronouns/S. Mīsāḍinu Pronouns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vōkkaḷuyākina"
+              "title": "S. Mīsāḍinu Pronouns"
+            }
+          },
+          {
+            "id": "620ae09081b35161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/S. Mīsāḍinu - Postpositions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S. Mīsāḍinu - Postpositions"
             }
           },
           {
@@ -27,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Konṭi.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Konṭi"
+              "title": "Verb Conjugations"
+            }
+          },
+          {
+            "id": "64d6908cd22f5e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/āgovāyākina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "āgovāyākina"
             }
           },
           {
@@ -41,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Declensions.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Mattakoyēnu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Declensions"
+              "title": "Mattakoyēnu"
             }
           },
           {
@@ -55,26 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Purukṣa.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kūṣiyēnnu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Purukṣa"
-            }
-          },
-          {
-            "id": "f6862d22476f89d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vāstugu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vāstugu"
+              "title": "Kūṣiyēnnu"
             }
           },
           {
@@ -83,16 +97,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vāstugarukṣa.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vāstugarukṣa"
+              "title": "Verb Conjugations"
+            }
+          },
+          {
+            "id": "b261908e86192933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Piḍḍemāgyārōkkaḍyākina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Piḍḍemāgyārōkkaḍyākina"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "land",
+                "query": "speak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,35 +280,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eec8d22f5bd315c1",
+  "active": "ea202ff8c4a316dd",
   "lastOpenFiles": [
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Purukṣa.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vāstugarukṣa.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vāstugu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vāsu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/S. Mīsāḍinu - Postpositions.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Verb Conjugations.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Declensions.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Vōkkaḷuyākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Gunḍastanakonṭi.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Konṭi.md",
-    "Vāstuguku Pinnaganyāḍi/The Great Old Game (Mīsāḍinu-Moggunu).md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Gunḍastanu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Taṣṭiyēkina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Pronouns/S. Mīsāḍinu Pronouns.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Caluppagamārrēḍi.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Numbers (Campatapu).md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Gunḍastanu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vakkavakkuyāva.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Vakkuyākina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Mavakkyākina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/āgrūmabayu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/campoti.md",
+    "Vāstuguku Pinnaganyāḍi/The Great Old Game (Mīsāḍinu-Moggunu).md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Mattakoyēnu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/templates/Declensions.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/āgovāyākina.md",
     "Taṣṭinupuku Pinnaganyāḍi/Prānta Mīsāḍinu (Proto-Anc-2)/Calnākkyāra.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/shkemigu.md",
-    "Vāstuguku Pinnaganyāḍi/overall plan for misadinu.md",
-    "Vāstuguku Pinnaganyāḍi/Unification of the Isle of Prānta.md",
-    "Darrayāvu.md",
-    "Ta.md",
-    "Untitled.md",
-    "Vāstuguku Pinnaganyāḍi/Timelines & Lists & Series/Full Chronological Timeline.md",
-    "Vāstuguku Pinnaganyāḍi/Timelines & Lists & Series/Series on the Prānta Gunḍastanāsu Mīsāḍinastuku (PGM).md",
-    "Vāstuguku Pinnaganyāḍi/Free (City-)States of Moggunu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Talevi.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Pinṭāgu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Piḍḍemāgyārōkkaḍyākina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Mīsāḍinu (Modern)/Verbs.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vakka.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Kūṣiyēkina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kūṣiyēnnu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Vōkkaḷuyākina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Konṭi.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Purukṣa.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Vāstugu.md",
     "Vāstuguku Pinnaganyāḍi/Timelines & Lists & Series",
-    "Vāstuguku Pinnaganyāḍi/Taṣṭinuppu Caluppaku Vāstugulu/The Maggayya Policy.md",
-    "Vāstuguku Pinnaganyāḍi/Battle of Kēmiṣa.md",
     "maps/isle of pranta post 954 aw.jpg",
     "maps/isle of pranta post 960 aw.jpg",
     "maps/second wp pgm war.jpg",
