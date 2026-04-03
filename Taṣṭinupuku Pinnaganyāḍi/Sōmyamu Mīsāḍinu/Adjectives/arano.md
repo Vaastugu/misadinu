@@ -1,7 +1,7 @@
 ## Etymology
-Cognates with [[mīnḍastara]] (other).
+Cognates with [[Mīnḍastara]] (other).
 
-Essentially from [[mīnḍastara]] (other) + [[Irānō]] (way) -> meaning other way
+Essentially from [[Mīnḍastara]] (other) + [[Irānō]] (way) -> meaning other way
 
 ### Adverb
 1. Or
