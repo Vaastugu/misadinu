@@ -10,7 +10,7 @@
 -[[-nākya|nākya]] (like, verb)
 -[[nākku]] (like, noun)
 -[[nā]] (adverb marker)
-
+-tanam (-ness)
 -koba (for, benefactive)
 
 -gilde(mi) (than, compared to)
@@ -23,4 +23,4 @@
 -ṣa (superlative -est)
 
 
-ēāōīūṣṭḷḍ
+ēāōīūṣṭḷḍṇ

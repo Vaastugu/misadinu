@@ -8,49 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "620ae09081b35161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "7e84937daebe8477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Divyākina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Divyākina"
-            }
-          },
-          {
-            "id": "aa001b1993120bdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Declensions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Declensions"
-            }
-          },
-          {
-            "id": "320a6930789fe748",
+            "id": "baada7f367f28a9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,20 +22,63 @@
             }
           },
           {
-            "id": "baada7f367f28a9c",
+            "id": "41af1770f9340379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verb Conjugations.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Sāgyu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verb Conjugations"
+              "title": "Sāgyu"
+            }
+          },
+          {
+            "id": "42f3449ab13509c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Sāngyu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sāngyu"
+            }
+          },
+          {
+            "id": "b933662de30ee898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Sāngyāmu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sāngyāmu"
+            }
+          },
+          {
+            "id": "a9889eec83adbbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Sāgyānu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sāgyānu"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caly",
+                "query": "chapter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,34 +237,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "620ae09081b35161",
+  "active": "a9889eec83adbbf7",
   "lastOpenFiles": [
+    "Vāstuguku Pinnaganyāḍi/Taṣṭinuppu Caluppaku Vāstugulu/Pāta Mīsāḍinu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Pinsagyānu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Sāgyānu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Sāngyāmu.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/S. Mīsāḍinu - Postpositions.md",
-    "README.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Divyākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Declensions.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verb Conjugations.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Calyākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/sāgevōni.md",
-    "Dūramupu.md",
-    "Vāstuguku Pinnaganyāḍi/Unification of the Isle of Prānta.md",
-    "Vāstuguku Pinnaganyāḍi/The Great Old Game (Mīsāḍinu-Moggunu).md",
-    "Vāstuguku Pinnaganyāḍi/Isle of Pranta.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Genyi.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Chalupakava.md",
-    "Untitled.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Gennānu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/ekku.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Manttu (Pāta Mīsāḍinu).md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Matta vakoniyēkina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Piḍḍemāgyārōkkaḍyākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Numbers (Campatapu).md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Pronouns/S. Mīsāḍinu Pronouns.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Mīnḍastara.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Chalupakavacalnu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kōḍayāra(yānu).md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Untitled 1.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Taṣṭiyēkina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Sāngyu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Sāgyu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Peṭṭiyēnu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Suvārudarṣamuyēṣvapu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Suvārudarṣamu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/svardarṣamu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Peṭṭeṇa.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Peṭṭeṇamu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Peḍiyēkina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Peṭṭeṇacalnu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Peṭṭeṇayākina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Peḍi.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Penṭi.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Penṭiyēmu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Penṭitanamu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Penṭiyēkina.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Kankyānu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Kancinakyānu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/sōkanci.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Sōkanci.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/kanci.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Untitled",
     "Vāstuguku Pinnaganyāḍi/Timelines & Lists & Series",
     "maps/isle of pranta post 954 aw.jpg",
     "maps/isle of pranta post 960 aw.jpg",
@@ -280,7 +282,6 @@
     "Vāstuguku Pinnaganyāḍi/Dūramupu/Mīsāḍinagyāra Dūramu/Rūvapu Cōpakunupu Yāpanapu.pdf",
     "Vāstuguku Pinnaganyāḍi/Dūramupu/Mīsāḍinagyāra Dūramu/Gonḍalenīpēki Prāntamagyāra (Knights’ Balanced).pdf",
     "Vāstuguku Pinnaganyāḍi/Dūramupu/Mīsāḍinagyāra Dūramu",
-    "Vāstuguku Pinnaganyāḍi/Dūramupu",
     "Untitled.canvas"
   ]
 }

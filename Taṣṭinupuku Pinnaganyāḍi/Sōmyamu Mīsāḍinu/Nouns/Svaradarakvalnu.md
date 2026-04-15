@@ -1,6 +1,6 @@
 
 ## Etymology
-Back formation of [[svardarṣamu]] + [[kvalnu]], influenced by [[Svaradarṣayākina]] (to journey)
+Back formation of [[Suvārudarṣamu]] + [[kvalnu]], influenced by [[Svaradarṣayākina]] (to journey)
 
 ### Noun
 1. A traveller

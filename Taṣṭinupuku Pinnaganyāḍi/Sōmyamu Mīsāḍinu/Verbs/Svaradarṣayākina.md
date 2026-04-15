@@ -1,5 +1,5 @@
 ## Etymology
-Likely from [[svardarṣamu]] (S. Misadinu)
+Likely from [[Suvārudarṣamu]] (S. Misadinu)
 
 ### Verb
 1. To journey, travel a long distance.
