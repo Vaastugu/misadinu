@@ -257,6 +257,7 @@ function navLinks() {
   return `
     <a href="${u('/')}">Home</a>
     ${langs}
+    <a href="${u('/sm/guide/')}">Guide</a>
     <a href="${u('/about/')}">About</a>
   `;
 }

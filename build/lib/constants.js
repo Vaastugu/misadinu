@@ -46,6 +46,7 @@ export const LANGUAGES = {
 
 // Grammar reference files to render as standalone pages (within SM folder)
 export const GRAMMAR_REFS = [
+  { file: 'guide.md',                               title: 'Language Guide',        urlPath: '/sm/guide/' },
   { file: 'Declensions.md',                         title: 'Declensions',           urlPath: '/sm/declensions/' },
   { file: 'Verb Conjugations.md',                   title: 'Verb Conjugations',     urlPath: '/sm/conjugations/' },
   { file: 'S. Mīsāḍinu - Postpositions.md',         title: 'Postpositions',         urlPath: '/sm/postpositions/' },
@@ -56,6 +57,7 @@ export const GRAMMAR_REFS = [
 
 // Filenames (without .md) to skip during word-entry collection
 export const REFERENCE_FILES = new Set([
+  'guide',
   'Declensions',
   'Verb Conjugations',
   'S. Mīsāḍinu - Postpositions',
