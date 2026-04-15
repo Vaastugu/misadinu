@@ -151,6 +151,14 @@ footer { font-family: var(--font-sans); font-size: 0.8rem; color: var(--text-mut
   background: white; color: var(--text); outline: none;
 }
 #search-input:focus { border-color: var(--accent-light); }
+.diacritic-btns { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.5rem; }
+.diacritic-btns button {
+  font-family: var(--font-serif); font-size: 1rem;
+  padding: 0.2rem 0.55rem; border: 1px solid var(--border);
+  border-radius: 4px; background: white; color: var(--text);
+  cursor: pointer; line-height: 1.4;
+}
+.diacritic-btns button:hover { background: var(--accent); color: white; border-color: var(--accent); }
 #search-results { margin-top: 0.75rem; }
 .result-item { padding: 0.65rem 0; border-bottom: 1px solid var(--border); }
 .result-item:last-child { border-bottom: none; }
@@ -506,6 +514,11 @@ export function homePage(langStats) {
 
 <div class="search-wrap">
   <input type="search" id="search-input" placeholder="Search words…" autocomplete="off" spellcheck="false">
+  <div class="diacritic-btns" aria-label="Insert diacritic">
+    ${['ē','ā','ō','ī','ū','ṣ','ṭ','ḷ','ḍ','ṇ'].map(c =>
+      `<button type="button" onclick="(function(){var i=document.getElementById('search-input');i.value+=('${c}');i.dispatchEvent(new Event('input'));i.focus();})()">${c}</button>`
+    ).join('')}
+  </div>
 </div>
 <div id="search-results"></div>
 

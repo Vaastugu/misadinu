@@ -10,6 +10,6 @@ export function buildSearchIndex(parsedEntries) {
     langKey:  p.langKey,
     cat:      p.category,
     wordType: p.wordType,
-    def:      p.firstDef || '',
+    def:      p.wordSections.flatMap(s => s.body.match(/^\d+\.\s*(.+)/mg) ?? []).map(l => l.replace(/^\d+\.\s*/, '')).join(' · ') || p.firstDef || '',
   }));
 }
