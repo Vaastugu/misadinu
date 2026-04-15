@@ -183,19 +183,23 @@ const SEARCH_JS = (baseUrl) => `
   const BASE = '${baseUrl}';
   let index = null;
 
-  input.addEventListener('input', async () => {
+  async function loadIndex() {
+    if (index) return true;
+    try {
+      const res = await fetch(BASE + '/search-index.json');
+      if (!res.ok) throw new Error(res.status);
+      index = await res.json();
+      return true;
+    } catch (e) {
+      results.innerHTML = '<p class="no-results">Search index unavailable.</p>';
+      return false;
+    }
+  }
+
+  async function doSearch() {
     const q = input.value.trim().toLowerCase();
     if (!q) { results.innerHTML = ''; return; }
-
-    if (!index) {
-      try {
-        const res = await fetch(BASE + '/search-index.json');
-        index = await res.json();
-      } catch (e) {
-        results.innerHTML = '<p class="no-results">Search index unavailable.</p>';
-        return;
-      }
-    }
+    if (!await loadIndex()) return;
 
     const matches = index.filter(e =>
       e.word.toLowerCase().includes(q) ||
@@ -214,7 +218,17 @@ const SEARCH_JS = (baseUrl) => `
         \${e.def ? \`<div class="result-def">\${e.def}</div>\` : ''}
       </div>
     \`).join('');
-  });
+  }
+
+  input.addEventListener('input', doSearch);
+  input.addEventListener('keydown', e => { if (e.key === 'Enter') doSearch(); });
+
+  // Pre-load the index as soon as the page is idle
+  if ('requestIdleCallback' in window) {
+    requestIdleCallback(loadIndex);
+  } else {
+    setTimeout(loadIndex, 500);
+  }
 }());
 `;
 
