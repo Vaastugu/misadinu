@@ -33,6 +33,8 @@ async function build() {
   const t0 = Date.now();
   log('🔨 Cleaning dist/…');
   fse.emptyDirSync(DIST_ROOT);
+  // Tell GitHub Pages not to run Jekyll on the output
+  fse.outputFileSync(path.join(DIST_ROOT, '.nojekyll'), '', 'utf8');
 
   // ── 1. Collect all entry metadata ───────────────────────────────────────
   log('📂 Collecting entries…');

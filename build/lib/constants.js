@@ -6,7 +6,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 export const VAULT_ROOT = path.resolve(__dirname, '../../');
 export const TP_ROOT = path.join(VAULT_ROOT, 'Taṣṭinupuku Pinnaganyāḍi');
 export const DIST_ROOT = path.join(VAULT_ROOT, 'dist');
-export const BASE_URL = process.env.BASE_URL ?? '';
+export const BASE_URL = process.env.BASE_URL ?? '/misadinu';
 
 /** Prefix every internal URL with the site base. */
 export function u(p) {
