@@ -528,7 +528,7 @@ export function homePage(langStats) {
   return layout({
     title: 'Taṣṭinupuku Pinnaganyāḍi',
     content,
-    extraHead: `<script defer>${SEARCH_JS(u(''))}</script>`,
+    extraHead: `<script>document.addEventListener('DOMContentLoaded',function(){${SEARCH_JS(u(''))}});</script>`,
   });
 }
 
