@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Arēmaru.md",
+                "file": "Taṣṭinupuku Pinnaganyāḍi/Mīsāḍinu (Modern)/yeṣṭalunu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arēmaru"
+              "title": "yeṣṭalunu"
             }
           }
         ],
@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,6 +228,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -238,8 +239,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a84a4544f47e5510",
+  "active": "a9889eec83adbbf7",
   "lastOpenFiles": [
+    "Taṣṭinupuku Pinnaganyāḍi/Mīsāḍinu (Modern)/sāgē.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Mīsāḍinu (Modern)/Verbs.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Mīsāḍinu (Modern)/Kostaga.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Mīsāḍinu (Modern)/kobberi.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Mīsāḍinu (Modern)/Divyakkavu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Mīsāḍinu (Modern)/dāggoni.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Mīsāḍinu (Modern)/cāyu.md",
+    "Vāstuguku Pinnaganyāḍi/overall plan for misadinu.md",
+    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Sāngyāmu.md",
+    "README.md",
+    "Vāstuguku Pinnaganyāḍi/Timelines & Lists & Series/Series on the Prānta Gunḍastanāsu Mīsāḍinastuku (PGM).md",
+    "Vāstuguku Pinnaganyāḍi/Timelines & Lists & Series/Full Chronological Timeline.md",
+    "Vāstuguku Pinnaganyāḍi/The Great Old Game (Mīsāḍinu-Moggunu).md",
+    "Vāstuguku Pinnaganyāḍi/Unification of the Isle of Prānta.md",
+    "Vāstuguku Pinnaganyāḍi/Prānta Gunḍastanāsu Mīsāḍinastuku (PGM).md",
+    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Arēmaru.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Ikoru.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Yēṣva (Yē).md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verb Conjugations.md",
@@ -248,24 +265,8 @@
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Sāgyānu.md",
     "Vāstuguku Pinnaganyāḍi/Taṣṭinuppu Caluppaku Vāstugulu/Pāta Mīsāḍinu.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Pinsagyānu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Sāngyāmu.md",
     "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/S. Mīsāḍinu - Postpositions.md",
     "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Sāngyu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Sāgyu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Peṭṭiyēnu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Suvārudarṣamuyēṣvapu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Adjectives/Suvārudarṣamu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/svardarṣamu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Peṭṭeṇa.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Peṭṭeṇamu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Peḍiyēkina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Peṭṭeṇacalnu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/Peṭṭeṇayākina.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Nouns/Peḍi.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Penṭi.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Penṭiyēmu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Penṭitanamu.md",
-    "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Penṭiyēkina.md",
     "Taṣṭinupuku Pinnaganyāḍi/Pāta Mīsāḍinu/Untitled",
     "Vāstuguku Pinnaganyāḍi/Timelines & Lists & Series",
     "maps/isle of pranta post 954 aw.jpg",
