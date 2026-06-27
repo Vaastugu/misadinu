@@ -16,7 +16,7 @@
 -gilde(mi) (than, compared to)
 
 -[[Yānu]] (verb --> noun marker)
--agyāra (noun -> adjective marker) - from āggayāra (past participle of [[āggayākina]])
+-agyāra (noun -> adjective marker) - from āggayāra (past participle of [[Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/āggayākina]])
 -nu (indicates some sort of human)
 
 -krā (comparative, -er)

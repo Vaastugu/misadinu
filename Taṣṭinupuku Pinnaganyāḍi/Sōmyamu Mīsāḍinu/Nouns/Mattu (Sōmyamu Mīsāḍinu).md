@@ -24,3 +24,10 @@ Accusative: au -> o, aa -> ā, oo -> ō.
 
 ### Descendants:
 [[Matta vakoniyēkina]] (to give or lend a hand, to help)
+
+## Etymology 2
+Shortened version of [[Mattakocalnu]] (advisor, minister)
+
+### Noun
+1. Advisor
+2. 

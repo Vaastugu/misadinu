@@ -1,5 +1,5 @@
 ## Etymology
-*Cognates with* [[āgganci]] (time) ([[Sōmyamu Mīsāḍinu (Language)|S. Mīsāḍinu]]), [[āggayākina]] (to happen) ([[Sōmyamu Mīsāḍinu (Language)|S. Mīsāḍinu]])
+*Cognates with* [[āgganci]] (time) ([[Sōmyamu Mīsāḍinu (Language)|S. Mīsāḍinu]]), [[Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/āggayākina]] (to happen) ([[Sōmyamu Mīsāḍinu (Language)|S. Mīsāḍinu]])
 
 ### Verb
 1. Sun (our star).

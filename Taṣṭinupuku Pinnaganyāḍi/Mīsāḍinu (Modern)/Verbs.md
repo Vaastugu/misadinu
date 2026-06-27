@@ -1,7 +1,7 @@
 āgovā -> should [[āgovāyākina]]
 paṣa -> will [[Paṣṭayākina]]
 pōḷu -> can 
-agga -> did/past tense [[āggayākina]]
+agga -> did/past tense [[Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/āggayākina]]
 ela - if
 
 ēāōīūṣṭḷḍ

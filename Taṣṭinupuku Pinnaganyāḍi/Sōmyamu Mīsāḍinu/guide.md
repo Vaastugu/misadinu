@@ -194,7 +194,7 @@ Adjectives in SM must agree with the noun they modify. They officially appear **
 - Comparative (*-er*): add *-krā* to the adjective
 - Superlative (*-est*): add *-ṣa* to the adjective
 
-**Adjectival derivation:** Any noun can be turned into an adjective by adding *-agyāra* (from the past participle of [[āggayākina]]). This gives a meaning roughly like "having the quality of X" or "X-like".
+**Adjectival derivation:** Any noun can be turned into an adjective by adding *-agyāra* (from the past participle of [[Taṣṭinupuku Pinnaganyāḍi/Sōmyamu Mīsāḍinu/Verbs/āggayākina]]). This gives a meaning roughly like "having the quality of X" or "X-like".
 
 **Examples:** [[āgeccu (āg)]] (*big, large*) → *āgeccukrā* (*bigger*) → *āgeccuṣa* (*biggest*). [[Sāgyu]] (*small*) is the antonym; its prefix form *sāg-* means *sub-* or *minor*.
 
