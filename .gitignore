@@ -1,3 +1,4 @@
 dist/
 build/node_modules/
 build/package-lock.json
+.obsidian/workspace.json
